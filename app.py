@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 st.set_page_config(page_title="Particle collision simulation", layout="centered")
-st.title("Particle Collision Simulation")
+st.title("Particle collision simulation")
 st.markdown("""
 Explore how two particles behave during an elastic collision. Adjust their masses and velocities and see what happens after the collision.
 """)
